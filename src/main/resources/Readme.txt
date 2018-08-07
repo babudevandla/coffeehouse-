@@ -11,4 +11,12 @@ Below are the technologies used
 5.Post man
 
 ------------------------------------------
-Please use the document to get the input body 
+
+use the url as given below(sample)
+==================================
+
+http://localhost:8080/swagger-ui.html#/
+http://localhost:8080/getDaillyReport
+
+=============IMP NOTE===============================================
+Please use the document to get the input body for every post request
